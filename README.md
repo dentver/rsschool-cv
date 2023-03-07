@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dentver.github.io/rsschool-cv/cv
