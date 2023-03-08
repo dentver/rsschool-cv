@@ -1,7 +1,8 @@
 #My CV
 ###ABOUT ME
-* full name Danil Zhirkov
-* my email: zhirkovd4@gmail.com
+##**Danil Zhirkov**
+* Email: zhirkovd4@gmail.com
+* Discord: dentver#2781
 ###ABOUT ME
 * My priority it's receving education and self-realization. I consider my strong point ability to solve various problems using logic.
 * I have a secondary vocational education
