@@ -1,4 +1,15 @@
 #My CV
-1 full name Danil Zhirkov
-2 my email: zhirkovd4@gmail.com
-3 My priority it's receving education and self-realization. I consider my strong point ability to solve various problems using logic.
+###ABOUT ME
+* full name Danil Zhirkov
+* my email: zhirkovd4@gmail.com
+###ABOUT ME
+* My priority it's receving education and self-realization. I consider my strong point ability to solve various problems using logic.
+* I have a secondary vocational education
+###SKILS
+* My skills are basic knowledge of CSS and HTML. Development tool which i can use it's VS-code
+* My level of English proficiency A1
+###MY CODE EXAMPLE
+```function multiply(a, b){
+ return a * b;
+}
+```
