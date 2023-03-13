@@ -1,1 +1,1 @@
-https://dentver.github.io/rsschool-cv/cv
+https://github.com/dentver/rsschool-cv/blob/gh-pages/cv.md
